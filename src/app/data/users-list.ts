@@ -15,7 +15,7 @@ export const UsersList: IUser[] = [
       },
       telefone: "11912345678",
       ativo: true,
-      função: "Administrador",
+      funcao: "Administrador",
       dataCadastro: "2024-07-10T10:00:00Z",
       status: {
         online: true,
@@ -38,7 +38,7 @@ export const UsersList: IUser[] = [
       },
       telefone: "(21) 99876-4321",
       ativo: true,
-      função: "Usuária",
+      funcao: "Usuária",
       dataCadastro: "2024-06-01T15:30:00Z",
       status: {
         online: false,
@@ -61,7 +61,7 @@ export const UsersList: IUser[] = [
       },
       telefone: "(41) 92345-6789",
       ativo: false,
-      função: "Moderador",
+      funcao: "Moderador",
       dataCadastro: "2023-12-20T08:15:00Z",
       status: {
         online: false,
@@ -84,7 +84,7 @@ export const UsersList: IUser[] = [
       },
       telefone: "(31) 95555-1122",
       ativo: true,
-      função: "Usuária",
+      funcao: "Usuária",
       dataCadastro: "2024-11-05T12:00:00Z",
       status: {
         online: true,
@@ -107,7 +107,7 @@ export const UsersList: IUser[] = [
       },
       telefone: "(51) 97777-3344",
       ativo: true,
-      função: "Administrador",
+      funcao: "Administrador",
       dataCadastro: "2024-09-14T16:45:00Z",
       status: {
         online: false,
@@ -130,7 +130,7 @@ export const UsersList: IUser[] = [
       },
       telefone: "(81) 94444-5566",
       ativo: false,
-      função: "Usuária",
+      funcao: "Usuária",
       dataCadastro: "2024-05-20T07:45:00Z",
       status: {
         online: false,

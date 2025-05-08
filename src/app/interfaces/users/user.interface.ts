@@ -9,7 +9,7 @@ export interface IUser {
     endereco: IAddress;
     telefone: string;
     ativo: boolean;
-    função: string;
+    funcao: string;
     dataCadastro: string;
     status: IStatus;
   }
