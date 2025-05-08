@@ -44,17 +44,15 @@ Clone o repositório:
 git clone https://github.com/seu-usuario/users-filter-project.git
 cd users-filter-project
 
-npm install
-
-Instale as dependências:
+##Instale as dependências:
 
 npm install
 
-Execute o projeto:
+##Execute o projeto:
 
 ng serve
 
-4. Acesso no navegador:
+##Acesso no navegador:
 
 http://localhost:4200
 
