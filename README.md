@@ -1,27 +1,66 @@
-# UsersFilterProject
+# 👥 Users Filter Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
+Sistema desenvolvido em **Angular + TypeScript** com o objetivo de listar e filtrar usuários com base em critérios como **nome**, **data de cadastro** e **status**. Ideal para dashboards administrativos e plataformas de gerenciamento de usuários.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## ✨ Funcionalidades
 
-## Code scaffolding
+- 🔍 Filtro de usuários por:
+  - Nome
+  - Intervalo de datas de cadastro
+  - Status (ativo, inativo, etc.)
+- 📋 Listagem de usuários em tabela
+- 📦 Estrutura modular e reutilizável
+- 🎨 Interface moderna com Angular Material
+- ⚡ Atualização dinâmica da lista com base nos filtros aplicados
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🧰 Tecnologias Utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [Angular](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Angular Material](https://material.angular.io/)
+- RxJS
+- HTML5 + SCSS
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🧪 Dados Simulados (Mock)
 
-## Running end-to-end tests
+users = [
+  { id: 1, nome: 'Fulano da Silva', dataCadastro: '2024-01-15', status: 'ativo' },
+  { id: 2, nome: 'Beltrano Lima', dataCadastro: '2024-02-01', status: 'inativo' }
+];
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 🚀 Como Executar
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/users-filter-project.git
+cd users-filter-project
+
+##Instale as dependências:
+
+npm install
+
+##Execute o projeto:
+
+ng serve
+
+##Acesso no navegador:
+
+http://localhost:4200
+
+---
+
+
+
+
+
+
+
