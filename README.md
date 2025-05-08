@@ -27,6 +27,15 @@ Sistema desenvolvido em **Angular + TypeScript** com o objetivo de listar e filt
 
 ---
 
+## 🧪 Dados Simulados (Mock)
+
+users = [
+  { id: 1, nome: 'Fulano da Silva', dataCadastro: '2024-01-15', status: 'ativo' },
+  { id: 2, nome: 'Beltrano Lima', dataCadastro: '2024-02-01', status: 'inativo' }
+];
+
+---
+
 ## 🚀 Como Executar
 
 1. Clone o repositório:
@@ -51,12 +60,7 @@ http://localhost:4200
 
 ---
 
-## 🧪 Dados Simulados (Mock)
 
-users = [
-  { id: 1, nome: 'Fulano da Silva', dataCadastro: '2024-01-15', status: 'ativo' },
-  { id: 2, nome: 'Beltrano Lima', dataCadastro: '2024-02-01', status: 'inativo' }
-];
 
 
 
