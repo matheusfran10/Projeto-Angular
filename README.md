@@ -38,7 +38,7 @@ users = [
 
 ## 🚀 Como Executar
 
-1. Clone o repositório:
+Clone o repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/users-filter-project.git
@@ -46,11 +46,11 @@ cd users-filter-project
 
 npm install
 
-2. Instale as dependências:
+Instale as dependências:
 
 npm install
 
-3. Execute o projeto:
+Execute o projeto:
 
 ng serve
 
