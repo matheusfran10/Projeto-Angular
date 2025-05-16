@@ -16,7 +16,7 @@ export const UsersList: IUser[] = [
       telefone: "11912345678",
       ativo: true,
       funcao: "Administrador",
-      dataCadastro: "2024-07-10T10:00:00Z",
+      dataCadastro: "2025-02-10T10:00:00Z",
       status: {
         online: true,
         verificado: true,
@@ -39,7 +39,7 @@ export const UsersList: IUser[] = [
       telefone: "(21) 99876-4321",
       ativo: true,
       funcao: "Usuária",
-      dataCadastro: "2024-06-01T15:30:00Z",
+      dataCadastro: "2025-02-01T15:30:00Z",
       status: {
         online: false,
         verificado: true,
@@ -62,12 +62,12 @@ export const UsersList: IUser[] = [
       telefone: "(41) 92345-6789",
       ativo: false,
       funcao: "Moderador",
-      dataCadastro: "2023-12-20T08:15:00Z",
+      dataCadastro: "2025-11-20T08:15:00Z",
       status: {
         online: false,
         verificado: false,
         assinaturaAtiva: false,
-        ultimoAcesso: "2024-12-10T10:00:00Z"
+        ultimoAcesso: "2025-12-10T10:00:00Z"
       }
     },
     {
@@ -85,7 +85,7 @@ export const UsersList: IUser[] = [
       telefone: "(31) 95555-1122",
       ativo: true,
       funcao: "Usuária",
-      dataCadastro: "2024-11-05T12:00:00Z",
+      dataCadastro: "2025-03-05T12:00:00Z",
       status: {
         online: true,
         verificado: true,
@@ -108,12 +108,12 @@ export const UsersList: IUser[] = [
       telefone: "(51) 97777-3344",
       ativo: true,
       funcao: "Administrador",
-      dataCadastro: "2024-09-14T16:45:00Z",
+      dataCadastro: "2025-09-14T16:45:00Z",
       status: {
         online: false,
         verificado: true,
         assinaturaAtiva: true,
-        ultimoAcesso: "2025-05-01T17:20:00Z"
+        ultimoAcesso: "2025-10-01T17:20:00Z"
       }
     },
     {
@@ -131,12 +131,12 @@ export const UsersList: IUser[] = [
       telefone: "(81) 94444-5566",
       ativo: false,
       funcao: "Usuária",
-      dataCadastro: "2024-05-20T07:45:00Z",
+      dataCadastro: "2025-05-20T07:45:00Z",
       status: {
         online: false,
         verificado: false,
         assinaturaAtiva: false,
-        ultimoAcesso: "2025-03-10T11:10:00Z"
+        ultimoAcesso: "2025-09-10T11:10:00Z"
       }
     }
   ]
