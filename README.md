@@ -48,6 +48,10 @@ cd users-filter-project
 
 npm install
 
+npm install -g @angular/cli
+
+npm install date-fns
+
 ##Execute o projeto:
 
 ng serve
